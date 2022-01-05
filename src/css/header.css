@@ -1,0 +1,14 @@
+header {
+  position: relative;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.header-content {
+  position: absolute;
+  left: 25%;
+  top: 40%;
+  color: white;
+}
